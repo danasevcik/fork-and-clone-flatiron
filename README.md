@@ -6,6 +6,8 @@ Below are the instructions on how to fork and clone a lab. Reference this docume
 
 So you've come to a lab in learn - woohoo!
 
+![woohoo](https://media.giphy.com/media/L0O3TQpp0WnSXmxV8p/giphy-downsized.gif)
+
 The first thing you should do is READ THE README.
 
 The next thing you should do is... make sure you READ THE README!
