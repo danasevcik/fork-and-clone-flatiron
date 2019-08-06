@@ -48,3 +48,5 @@ When the lab has been cloned, you need to ```cd``` into the newly created folder
 NOW you can run ```learn```!
 
 ![github-symbol](./photos/clone-in-folder.png)
+
+If you see an error message saying that you cannot run ```learn```, you should run ```bundle install``` and try running ```learn``` again!
