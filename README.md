@@ -39,7 +39,7 @@ NOW! when you're in your ```code``` folder:
 
 On the forked version of the lab, click on the GREEN CLONE button.
 
-The copy button (circled in purple below) will copy the path. Make sure that you see "Clone with SSH". If you instead see "Clone with HTTPS", click on the blue link above the copy button that says "Use SSH".
+The copy button (circled in purple below) will copy the path. Make sure that you see "Clone with SSH" in bold text above this button. If you instead see "Clone with HTTPS", click on the blue link above the copy button that says "Use SSH".
 
 ![github-symbol](./photos/clone.png)
 
@@ -52,3 +52,7 @@ NOW you can run ```learn```!
 ![github-symbol](./photos/clone-in-folder.png)
 
 If you see an error message saying that you cannot run ```learn```, you should run ```bundle install``` and try running ```learn``` again!
+
+AWESOME! Let's go!
+
+![let's go](https://media.giphy.com/media/CjmvTCZf2U3p09Cn0h/giphy-downsized.gif)
