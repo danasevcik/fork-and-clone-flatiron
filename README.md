@@ -13,3 +13,9 @@ The next thing you should do is... make sure you READ THE README!
 Once you've done that, hit this little github symbol - nice!
 
 ![github-symbol](./photos/github-symbol.png)
+
+
+![github-symbol](./photos/fork.png)
+
+
+![github-symbol](./photos/clone.png)
