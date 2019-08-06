@@ -12,11 +12,11 @@ The first thing you should do is READ THE README.
 
 The next thing you should do is... make sure you READ THE README!
 
-Once you've done that, hit this little github symbol - nice!
+Once you've done that and you are ready to begin working, click the github symbol - nice!
 
 ![github-symbol](./photos/github-symbol.png)
 
-This will bring you to the lab repository in Github. Do not clone from this page! You need to FORK this lab - this will create a repository under your account with the lab.
+This will bring you to the lab repository in Github. Do not clone from this page! You need to FORK this lab - this will create a repository under your account. This is now your version of the lab to work on and make changes to.
 
 Click on this FORK button in the top right.
 
